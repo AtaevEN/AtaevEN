@@ -62,9 +62,9 @@
 - **Tutu (регрессия):** предсказание расходов при отказе от покупки, ансамбли и пайплайны (LightGBM, CatBoost, XGBoost).  
 
 📂 Репозиторий с задачами: 
-[T-Bank (NLP)](https://github.com/AtaevEN/T-bank_task)
 
-[Tutu (регрессия)](https://github.com/AtaevEN/test_task_Tyty)
+- [T-Bank (NLP)](https://github.com/AtaevEN/T-bank_task)
+- [Tutu (регрессия)](https://github.com/AtaevEN/test_task_Tyty)
 
 ---
 
